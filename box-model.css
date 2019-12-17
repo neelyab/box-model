@@ -1,0 +1,23 @@
+h1 {
+	color: darkblue;
+	text-align: center;
+	background-color: lightgrey;
+	margin: 0;
+}
+h2 {
+	color: salmon;
+}
+.container {
+	background-color: grey;
+	float: left;
+	width: 100%;
+}
+.column-1 {
+	width: 45%;
+	float: right;
+	padding: 20px;
+}
+.column-2 {
+	width: 45%;
+	padding: 20px;
+}
